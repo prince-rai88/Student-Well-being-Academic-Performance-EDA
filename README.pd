@@ -1,0 +1,56 @@
+# 🌟 Student Well-being & Academic Performance EDA
+
+This project explores how **student habits and well-being** influence **academic performance (CGPA)**. Using a dataset of study patterns, sleep, screen time, stress levels, and extracurricular activities, we uncover meaningful trends that can help improve learning outcomes and student life.
+
+---
+
+## 📁 Project Files
+
+- **`firsttask.csv`** – Original dataset provided for analysis.  
+- **`student-wellbeing-eda.py`** – Python script for data cleaning, analysis, and visualization.  
+- **`cleaned_firsttask.csv`** – Cleaned dataset ready for analysis.
+
+---
+
+## 🎯 Objective
+
+Analyze the impact of daily habits and well-being factors on students’ academic performance to identify patterns, correlations, and actionable insights.
+
+---
+
+## 🛠️ Analysis Workflow
+
+1. **Data Exploration**
+   - Examine dataset structure, missing values, duplicates, and outliers.  
+
+2. **Data Preprocessing**
+   - Handle missing and inconsistent records.  
+   - Encode categorical variables (Stress Level, Extracurricular Activities).  
+   - Prepare clean data for analysis.
+
+3. **Exploratory Data Analysis (EDA)**
+   - Investigate correlations between **study hours, sleep, screen time** and CGPA.  
+   - Compare academic performance across **stress levels**.  
+   - Analyze CGPA differences between students who participate in **extracurricular activities** vs those who don’t.  
+   - Visualize patterns using scatter plots, bar charts, and box plots.
+
+4. **Insights**
+   - Generate actionable insights supported by graphs and statistics.
+
+---
+
+## 📊 Key Insights
+
+- 📈 Moderate stress levels often correspond with higher CGPA than high stress.  
+- 💤 Optimal sleep hours positively impact academic performance.  
+- 📱 Excessive screen time tends to lower CGPA.  
+- 📚 Consistent study hours correlate with better performance.  
+- 🎨 Participation in extracurricular activities is associated with higher CGPA.
+
+---
+
+## 💻 How to Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/prince-rai88/Student-Well-being-Academic-Performance-EDA.git

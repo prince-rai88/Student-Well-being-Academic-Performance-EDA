@@ -51,6 +51,13 @@ Analyze the impact of daily habits and well-being factors on students’ academi
 
 ## 💻 How to Run
 
-1. Clone the repository:
-```bash
+Clone the repository and install dependencies:
+
 git clone https://github.com/prince-rai88/Student-Well-being-Academic-Performance-EDA.git
+cd Student-Well-being-Academic-Performance-EDA
+pip install -r requirements.txt
+
+
+Run the analysis:
+
+python student-wellbeing-eda.py
